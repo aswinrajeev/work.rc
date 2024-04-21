@@ -1,0 +1,4 @@
+#!/bin/sh
+
+# Import build tools
+source $WORK_CONFIGS/build_tools
